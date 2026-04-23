@@ -8,7 +8,7 @@ const PLAN_DATA = [
 
   {
     id: 1,
-    title: 'Semana 1',
+    title: 'Abril',
     posts: [
       {
         id: 1,
@@ -30,13 +30,7 @@ const PLAN_DATA = [
         headline: 'FELIZ PÁSCOA\nO verdadeiro significado da renovação.',
         art: 'Imagem focada no tema da ressurreição de Cristo (como o sepulcro vazio, uma cruz iluminada pelo sol da manhã, ou elementos de luz que remetam à ressurreição). A paleta de cores deve ser clara e iluminada, transmitindo esperança, vitória e paz.',
         legenda: 'A Páscoa é a celebração da vida que vence, do amor que renasce e da esperança que se renova. Que a luz do Cristo Ressuscitado traga bênçãos, saúde e muita paz para a sua família e para a vida que está crescendo dentro de você. Uma Feliz e Abençoada Páscoa de toda a equipe da Clínica B+! 🕊️🤍'
-      }
-    ]
-  },
-  {
-    id: 2,
-    title: 'Semana 2',
-    posts: [
+      },
       {
         id: 4,
         type: 'FEED',
@@ -57,13 +51,7 @@ const PLAN_DATA = [
         headline: 'Morfológica do 1º Trimestre: muito além de uma imagem.',
         art: 'Arte clean dividida (ou mesclada): de um lado, a foto de um médico da Clínica B+ analisando um exame com extrema concentração; do outro, tópicos curtos e elegantes destacando "Rastreamento minucioso" e "Protocolos completos".',
         legenda: 'Entre a 11ª e a 14ª semana, você passará por um dos exames mais importantes da gestação. A Morfológica do 1º Trimestre não é apenas para "ver o bebê", mas sim um rastreamento minucioso de síndromes genéticas e avaliação da anatomia inicial. Na Clínica B+, nossos especialistas seguem protocolos rigorosos para garantir que nenhum detalhe passe despercebido. Aqui, não existem "adicionais ocultos": o exame é completo porque a sua segurança não se negocia. 🩺✨'
-      }
-    ]
-  },
-  {
-    id: 3,
-    title: 'Semana 3',
-    posts: [
+      },
       {
         id: 7,
         type: 'FEED',
@@ -84,13 +72,7 @@ const PLAN_DATA = [
         headline: 'Doppler Obstétrico: a lupa para a saúde do seu bebê.',
         art: 'Foto focada no equipamento de ultrassom moderno da clínica, mostrando a tela com o mapeamento a cores (Doppler) e as mãos do médico operando o aparelho com precisão.',
         legenda: 'Você sabe para que serve o Doppler Obstétrico? 🩸 Ele é a nossa principal ferramenta para avaliar o fluxo de sangue entre você, a placenta e o bebê. É através dele que garantimos que seu filho está recebendo todo o oxigênio e nutrientes necessários para crescer forte e saudável. Um exame fundamental para a redução de riscos e para uma gestação segura. Na B+, tecnologia de ponta e especialização médica andam juntas para entregar o melhor diagnóstico.'
-      }
-    ]
-  },
-  {
-    id: 4,
-    title: 'Semana 4',
-    posts: [
+      },
       {
         id: 10,
         type: 'FEED',
@@ -132,6 +114,110 @@ const PLAN_DATA = [
         closedDates: '(21/04)',
         openDate: '(QUA 22/04)',
         message: 'Bom feriado a todos!'
+      },
+      {
+        id: 'c3',
+        title: 'Dia do Trabalhador',
+        closedDates: '(01/05)',
+        openDate: '(02/05)',
+        message: 'Bom feriado a todos!'
+      }
+    ]
+  },
+  {
+    id: 6,
+    title: 'Maio',
+    posts: [
+      {
+        id: 1,
+        type: 'FEED',
+        headline: 'FELIZ DIA DO TRABALHADOR\nO trabalho dignifica, mas a saúde é o que te sustenta.',
+        art: 'Arte gráfica limpa e acolhedora homenageando os trabalhadores. Imagem de profissionais de diferentes áreas ou da equipe técnica da clínica trabalhando com um sorriso. Cores institucionais fortes e selo "1º de Maio".',
+        legenda: 'Hoje é dia de homenagear a força, a dedicação e o suor de quem faz o mundo girar! 💼✨ O trabalho dignifica, realiza sonhos e constrói o futuro, mas lembre-se: o seu maior instrumento de trabalho é a sua saúde.\n\nNão deixe que a rotina agitada e os compromissos diários façam você esquecer de cuidar de si mesmo(a). A Clínica B+ deseja a todos um Feliz Dia do Trabalhador! Que a sua jornada seja sempre de sucesso e, principalmente, de muita saúde para aproveitar todas as conquistas do seu esforço. Parabéns pelo seu dia! 🛠️💙 #DiaDoTrabalhador #SaudeDoTrabalhador #ClinicaBMais'
+      },
+      {
+        id: 2,
+        type: 'FEED',
+        headline: 'A verdadeira força de uma mãe nasce no autocuidado.',
+        art: 'Foto de capa de revista: Uma mulher deslumbrante e real, exalando confiança e paz. Tom fotográfico quente e acolhedor (golden hour). Selo leve e dourado: "Mês das Mães B+".',
+        legenda: 'Seja bem-vindo, Maio! O mês mais afetuoso do ano chegou. Historicamente, fomos ensinadas que ser mãe é sinônimo de doar-se por inteiro — e nós abraçamos isso com amor. Mas a Clínica B+ está aqui para te lembrar de um segredo: o seu filho precisa, acima de tudo, que você esteja BEM. Cuidar da sua saúde física e mental é o maior ato de amor pela sua família. Neste mês, nossa homenagem será cuidar de VOCÊ. Acompanhe nossos conteúdos exclusivos! 🌸✨ #MesDasMaes #ClinicaBMais #Caruaru'
+      },
+      {
+        id: 3,
+        type: 'FEED',
+        headline: 'Emagrecimento guiado: Resgate sua autoestima com segurança.',
+        art: 'Composição minimalista e moderna: Uma mesa médica elegante, um bloco de receituário da B+, estetoscópio e as embalagens sutis desfocadas (remetendo às canetas). Foco em "Saúde e Acompanhamento".',
+        legenda: 'O corpo feminino passa por inúmeras transformações, principalmente após a maternidade. Recomeçar e buscar a melhor versão da sua saúde exige ciência e apoio médico. O tratamento com as "canetas emagrecedoras" (análogos de GLP-1) é uma revolução, mas só funciona com segurança através de um acompanhamento clínico e rigoroso.\n\nAqui na Clínica B+, você não caminha sozinha: monitoramos seus exames de perto, garantindo bem-estar, controle de efeitos adversos e resultados reais e duradouros. Pronta para investir em você de forma segura? 🩺💚 Fale no WhatsApp e agende sua avaliação médica!'
+      },
+      {
+        id: 4,
+        type: 'REELS',
+        headline: 'O som mais emocionante do mundo. 🤍',
+        art: 'Capa do Vídeo (Reels): Uma gestante segurando a mão do parceiro(a), ambos com lágrimas nos olhos olhando para a tela do ultrassom (fora de quadro). Texto na tela: "Momentos B+: Ouça com a gente".',
+        legenda: 'Aquele "tum-tum" acelerado que muda a vida de uma família para sempre. 🥺 O primeiro batimento cardíaco fetal é um dos marcos mais inesquecíveis da jornada da gravidez. Na Clínica B+, nossos equipamentos de última geração não entregam apenas imagens em alta definição, eles traduzem emoção pura.\n\nE você, lembra qual foi a sensação de ouvir esse som pela primeira vez? Conta pra gente nos comentários! 👇🤰 #Ultrassom #MaternidadeReal #ClinicaBMais'
+      },
+      {
+        id: 5,
+        type: 'FEED',
+        headline: 'Mãe, você já checou sua saúde este ano?',
+        art: 'Infográfico luxuoso em formato de carrossel. Capa: "Check-list da Saúde da Mulher Moderna". Cards seguintes com exames (Colposcopia, Papa, USG Mamas e Transvaginal).',
+        legenda: 'A agenda do pediatra do filho está em dia, as vacinas também, a rotina da casa administrada... e as SUAS consultas? 👀\n\nNeste mês de maio, a Clínica B+ reforça o ALERTA VERMELHO do autocuidado. O nosso "Combo da Mulher" foi desenhado para você resolver TUDO em um só dia: Consulta Ginecológica + Citologia + Colposcopia + USG Endovaginal.\n\nSem desculpas, sem perder dias inteiros em salas de espera diferentes. Você entra, resolve tudo com nossa equipe de excelência e sai tranquila. Priorize-se! 🩸✨'
+      },
+      {
+        id: 6,
+        type: 'FEED',
+        headline: 'Feliz Dia das Mães: Onde tudo começa.',
+        art: 'Arte cinematográfica: Mãe e bebê recém-nascido em um momento de pura conexão, aquele "olho no olho" (skin to skin). Logotipo da Clínica B+ em marca d’água elegante. Palavras: Amor, Força, Vida.',
+        legenda: 'Mãe: um título, mil funções, infinito amor. Hoje reverenciamos quem tem o poder divino de gerar, nutrir e proteger a vida. Na Clínica B+, acompanhamos diariamente o nascer de novos laços, as lágrimas de felicidade no exame morfológico e a coragem de cada uma de vocês.\n\nÀs mães de primeira viagem, às mães de muitos, às mães de anjo e a todas que carregam o amor maternal: nosso reconhecimento e gratidão.\n\nFeliz Dia das Mães! ❤️🕊️ De toda a diretoria e equipe médica Clínica B+.'
+      },
+      {
+        id: 7,
+        type: 'FEED',
+        headline: 'O cuidado com o seu filho não termina no parto.',
+        art: 'Foto de um ambiente de pediatria iluminado e alegre, destacando uma criança brincando no chão enquanto o médico sorri conversando com a mãe.',
+        legenda: 'Você acompanhou cada milímetro do desenvolvimento no ultrassom... e agora ele está no seu colo! 😍 A transição para a vida lúdica fora da barriga exige orientações precisas.\n\nA especialidade de Pediatria na Clínica B+ é muito mais do que medir e pesar. É sobre oferecer segurança aos pais, amparar na introdução alimentar, guiar as janelas de sono e garantir que o desenvolvimento neurológico e motor do seu filho atinja todo o potencial. Seu porto seguro continua sendo aqui na B+. 🧸🩺'
+      },
+      {
+        id: 8,
+        type: 'FEED',
+        headline: 'Por que o Doppler Obstétrico é o queridinho dos médicos?',
+        art: 'Foco no detalhe: Foco na máquina de ultrassom revelando os fluxos azuis e vermelhos (Doppler), com um box explicativo elegante: "A linguagem do coração e da placenta".',
+        legenda: 'Se a ultrassonografia comum é a "foto", o Doppler é o "mapa da vida". 🩸✨\n\nÉ esse recurso mágico (e super tecnológico!) que permite ao médico ver como o sangue e, consequentemente, os nutrientes e o oxigênio estão fluindo da mamãe para o bebê. Ele salva vidas detectando precocemente sofrimento fetal ou alterações na pressão (como a pré-eclâmpsia).\n\nQuer tranquilidade absoluta no 3º trimestre? A Clínica B+ possui os setups mais avançados de Caruaru para um rastreamento via Doppler perfeito. 💙'
+      },
+      {
+        id: 9,
+        type: 'FEED',
+        headline: 'CONHEÇA O B+ PASS',
+        art: 'Layout informativo e direto da campanha. Destaque em tamanho grande para as artes reais do Cartão B+PASS (frente e verso). Ao lado, textos curtos em formato de tópicos listando as vantagens para o paciente (Consultas, Exames, Família).',
+        legenda: 'O B+ PASS não é plano de saúde, é o seu passaporte para descontos exclusivos e atendimento de excelência na Clínica B+! 💳✨\n\nNós desenvolvemos o B+ PASS para quem deseja uma medicina humanizada, qualificada e ágil, com preços acessíveis e previsíveis. Com a sua adesão, você passa a ter acesso a:\n\n✅ Descontos super especiais em consultas médicas com nossos especialistas.\n✅ Condições reduzidas na nossa linha completa de exames de Imagem (Ultrassonografias) e Laboratoriais.\n✅ Possibilidade de inclusão de dependentes (traga quem você ama para cuidar da saúde também).\n✅ Zero burocracia e atendimento rápido.\n\nDescubra que o padrão de qualidade B+ cabe no seu bolso. Mande uma mensagem agora no nosso WhatsApp (3721-1116), tire suas dúvidas com a recepção e garanta os benefícios do seu cartão B+ PASS! 💙 #BPass #ClinicaBMais #DescubraOBPass #Caruaru'
+      },
+      {
+        id: 10,
+        type: 'FEED',
+        headline: 'A excelência virou referência em Caruaru.',
+        art: 'Fotografia premium da fachada da Clínica B+ em Divinópolis ao entardecer, com iluminação cênica. Destacando a magnitude e conforto da estrutura.',
+        legenda: 'O ano é 2026 e o orgulho que temos do espaço construído para vocês só aumenta! 🏢 A Clínica B+ foi arquitetada para quebrar o padrão "frio" das clínicas médicas tradicionais.\n\nDa paleta de cores à escolha das poltronas, das recepções setorizadas à tecnologia das salas de diagnósticos. Cada metro quadrado aqui serve a um propósito: o de abraçar você.\n\n📍 Av. Rui Barbosa, 321 - Divinópolis. Venha vivenciar o Padrão B+ de Diagnóstico e Saúde.'
+      },
+      {
+        id: 11,
+        type: 'FEED',
+        headline: 'Saúde Mental Materna: Como você está hoje?',
+        art: 'Arte sensível, com cores pastel bem calmas. Uma caneca de chá e um bloco de notas escrito: "Sentir cansaço não diminui seu amor".',
+        legenda: 'No mês de maio, precisamos ir além das flores e presentes. Precisamos falar do cansaço invisível. A carga mental feminina e materna é altíssima.\n\nLembre-se: pedir ajuda médica não é fraqueza. Ter alterações de humor pós-parto ou estresse diário intenso são reações químicas do seu próprio corpo pedindo um tempo e um zelo extra.\nNossa equipe médica está pronta para te ouvir sem julgamentos. Você não precisa dar conta de tudo o tempo todo. Fale conosco. 🤍🌸'
+      },
+      {
+        id: 12,
+        type: 'FEED',
+        headline: 'Mito ou Verdade: A memória "some" na gravidez?',
+        art: 'Design interativo, lúdico e atraente, estilo quiz ou carrossel de curiosidades. "Esquecendo tudo? Não é culpa sua!"',
+        legenda: 'Você já abriu a geladeira de casa e pensou "o que eu vim fazer aqui mesmo?" 😅\n\nAcredite, é VERDADE (e tem até nome)! Essa famosa perda de memória ou dificuldade de concentração durante e logo após a gestação é conhecida mundialmente como "Mommy Brain" ou Placentésia.\n\nIsso ocorre devido às adaptações neurais no cérebro das grávidas geradas pelo volume de hormônios. O cérebro literalmente se "reconfigura" para focar quase que inteiramente na proteção do bebê! Incrível, né? Marca aquela mãe que está esquecendo até o próprio nome nos comentários! 👇🗣️'
+      },
+      {
+        id: 13,
+        type: 'FEED',
+        headline: 'O fim de maio chegou, o amor-próprio fica.',
+        art: 'Foto de uma paciente sorrindo fechando um cardápio/agenda na recepção da clínica, passando um clima de "dever cumprido" e paz interior.',
+        legenda: 'O "Mês das Mães" está chegando ao fim, mas o seu amor-próprio não deve ter data de validade. 🌸💪\n\nO cuidado com você mesma é uma escolha diária, e nós somos seus parceiros nisso! Para ajudar você a colocar sua saúde sempre em primeiro lugar, o nosso Combo da Mulher está sempre à sua disposição.\n\nEm um único dia, num único local seguro e tecnológico, você realiza: Consulta Ginecológica + Citologia + Colposcopia + USG Endovaginal. Resolva tudo com agilidade e entre em junho priorizando o que importa: VOCÊ! Agende hoje mesmo pelo link da bio! ✅🏥'
       }
     ]
   }
@@ -247,7 +333,7 @@ export default function App() {
         <div className="text-right flex items-center gap-4">
           <div>
             <h1 className="text-xl font-bold text-gray-800">Planejamento de Social Media</h1>
-            <p className="text-sm text-gray-500 uppercase tracking-wider font-semibold">Abril 2026</p>
+            <p className="text-sm text-gray-500 uppercase tracking-wider font-semibold">{currentWeek?.title.includes('Maio') ? 'Maio' : 'Abril'} 2026</p>
           </div>
           <button 
             onClick={downloadPDF}
@@ -289,7 +375,7 @@ export default function App() {
             </div>
             <div className="flex items-center bg-white/20 px-4 py-2 rounded-full text-sm font-medium backdrop-blur-sm">
               <Calendar className="w-4 h-4 mr-2" />
-              Abril / 2026
+              {currentWeek?.title.includes('Maio') ? 'Maio / 2026' : 'Abril / 2026'}
             </div>
           </div>
         </div>
@@ -454,7 +540,7 @@ export default function App() {
               {/* Header overlay */}
               <div className="absolute top-20 left-20">
                 <h2 className="text-5xl font-bold text-[#1f2937]">Planejamento de Social Media</h2>
-                <p className="text-3xl text-[#6b7280] uppercase tracking-wider font-semibold mt-2">Abril 2026 • {currentWeek?.title}</p>
+                <p className="text-3xl text-[#6b7280] uppercase tracking-wider font-semibold mt-2">{currentWeek?.title.includes('Maio') ? 'Maio' : 'Abril'} 2026 • {currentWeek?.title}</p>
               </div>
 
               <div className="absolute top-20 right-20 text-right">
@@ -544,7 +630,7 @@ export default function App() {
               <div className="flex justify-between items-center border-b-4 border-[#009BAB] pb-8 mb-12">
                 <div>
                   <h2 className="text-5xl font-bold text-[#1f2937]">Planejamento de Social Media</h2>
-                  <p className="text-3xl text-[#6b7280] uppercase tracking-wider font-semibold mt-2">Abril 2026 • {currentWeek?.title}</p>
+                  <p className="text-3xl text-[#6b7280] uppercase tracking-wider font-semibold mt-2">{currentWeek?.title.includes('Maio') ? 'Maio' : 'Abril'} 2026 • {currentWeek?.title}</p>
                 </div>
                 <div className="text-right">
                   <span className="text-4xl font-bold text-[#007A88] block">POST {post.id}</span>
