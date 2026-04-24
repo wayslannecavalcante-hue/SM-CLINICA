@@ -180,9 +180,9 @@ const PLAN_DATA = [
       {
         id: 8,
         type: 'FEED',
-        headline: 'Por que o Doppler Obstétrico é o queridinho dos médicos?',
-        art: 'Foco no detalhe: Foco na máquina de ultrassom revelando os fluxos azuis e vermelhos (Doppler), com um box explicativo elegante: "A linguagem do coração e da placenta".',
-        legenda: 'Se a ultrassonografia comum é a "foto", o Doppler é o "mapa da vida". 🩸✨\n\nÉ esse recurso mágico (e super tecnológico!) que permite ao médico ver como o sangue e, consequentemente, os nutrientes e o oxigênio estão fluindo da mamãe para o bebê. Ele salva vidas detectando precocemente sofrimento fetal ou alterações na pressão (como a pré-eclâmpsia).\n\nQuer tranquilidade absoluta no 3º trimestre? A Clínica B+ possui os setups mais avançados de Caruaru para um rastreamento via Doppler perfeito. 💙'
+        headline: 'Doppler Obstétrico: A tecnologia a favor da segurança.',
+        art: 'Foco no detalhe: Imagem da tela do ultrassom revelando os fluxos azuis e vermelhos (Doppler), com um box explicativo elegante: "A linguagem do coração e da placenta".',
+        legenda: 'Você sabia que o Doppler Obstétrico vai muito além de uma imagem mais detalhada? Ele é um exame focado em avaliar o fluxo sanguíneo entre a mãe, a placenta e o bebê. 🩸✨\n\nEssa tecnologia nos permite entender se a oxigenação e o transporte de nutrientes estão acontecendo perfeitamente, sendo uma ferramenta essencial principalmente em gestações de alto risco.\n\nCom o Doppler, nossa equipe consegue identificar precocemente sinais de alteração no crescimento fetal ou até indicativos de alterações na pressão arterial materna (como risco para pré-eclâmpsia).\n\nNa Clínica B+, realizamos este exame com extrema precisão técnica e equipamentos de ponta, garantindo o máximo de segurança para essa fase tão importante. Agende sua ultrassonografia conosco! 💙'
       },
       {
         id: 9,
