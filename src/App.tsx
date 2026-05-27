@@ -121,6 +121,20 @@ const PLAN_DATA = [
         closedDates: '(01/05)',
         openDate: '(02/05)',
         message: 'Bom feriado a todos!'
+      },
+      {
+        id: 'c4',
+        title: 'Feriado de Corpus Christi',
+        closedDates: '(04/06)',
+        openDate: '(SEX 05/06)',
+        message: 'Aviso Importante'
+      },
+      {
+        id: 'c5',
+        title: 'Feriado de São João',
+        closedDates: '(24/06)',
+        openDate: '(QUI 25/06)',
+        message: 'Bom feriado a todos!'
       }
     ]
   },
@@ -218,6 +232,96 @@ const PLAN_DATA = [
         headline: 'O fim de maio chegou, o amor-próprio fica.',
         art: 'Foto de uma paciente sorrindo fechando um cardápio/agenda na recepção da clínica, passando um clima de "dever cumprido" e paz interior.',
         legenda: 'O "Mês das Mães" está chegando ao fim, mas o seu amor-próprio não deve ter data de validade. 🌸💪\n\nO cuidado com você mesma é uma escolha diária, e nós somos seus parceiros nisso! Para ajudar você a colocar sua saúde sempre em primeiro lugar, o nosso Combo da Mulher está sempre à sua disposição.\n\nEm um único dia, num único local seguro e tecnológico, você realiza: Consulta Ginecológica + Citologia + Colposcopia + USG Endovaginal. Resolva tudo com agilidade e entre em junho priorizando o que importa: VOCÊ! Agende hoje mesmo pelo link da bio! ✅🏥'
+      }
+    ]
+  },
+  {
+    id: 7,
+    title: 'Junho',
+    posts: [
+      {
+        id: 1,
+        type: 'FEED',
+        headline: 'O coração bate no ritmo da Capital do Forró.',
+        art: 'Direcionamento de Arte: Fotografia de uma gestante no início da gravidez sorrindo, um ambiente de muita paz, sutilmente decorado com um laço xadrez ou cordel leve na moldura da arte. Título no layout: "Ultrassonografia Inicial: O começo de tudo."',
+        legenda: 'A cidade já está em ritmo de festa, mas a emoção mais forte bate dentro de você! 🪗🤍 A Ultrassonografia Obstétrica Inicial (entre a 7ª e a 9ª semana) é a porta de entrada para a sua jornada de pré-natal no mês mais nordestino do ano.\n\nEla confirma o tempo exato da gestação, quantas vidas estão a caminho e a correta implantação. Na Clínica B+, acolhemos o seu primeiro encontro visual com o bebê trazendo as respostas e a tranquilidade que a nova família merece neste São João. Agende seu exame de forma prática pelo link da nossa bio! 🌽🩺'
+      },
+      {
+        id: 2,
+        type: 'CARROSSEL',
+        headline: 'A nossa melhor tradição é uma morfológica completa.',
+        art: 'Layout Carrossel (4 frames) com textura suave de chita ou xadrez na borda (chic e discreto): Slide 1 - "A Morfológica do 2º Trimestre na B+". Slide 2 - Ícones da avaliação de cada órgão fetal. Slide 3 - "Cervicometria incluída de forma nativa". Slide 4 - "Sua segurança não se negocia".',
+        legenda: 'Em Caruaru a tradição junina é gigante, e na Clínica B+, a nossa maior tradição é fazer exames sem entrelinhas! Você sabia que a medida do colo do útero (cervicometria) é essencial para prevenir o parto prematuro?\n\nAqui, a Morfológica do 2º Trimestre (20 a 24 semanas) segue protocolos de excelência mundiais de forma NATIVA. Nossa equipe analisa detalhadamente toda a anatomia do bebê e já inclui a cervicometria no mesmo exame, sem surpresas na recepção (nada de balão surpresa!).\n\nNeste São João, o seu exame obstétrico é completo e a sua segurança é garantida. 🤰🔥 Salve este post para lembrar quando chegar nas 20 semanas!'
+      },
+      {
+        id: 3,
+        type: 'CARROSSEL',
+        headline: 'Planejamento que traz paz: Pacotes Gestacionais.',
+        art: 'Carrossel Explicativo. Slide 1 - Fotografia acolhedora de uma médica da B+ com o texto: "O que ninguém te conta sobre os exames do pré-natal". Slide 2 - "A necessidade de previsibilidade". Slide 3 - "Conheça os Pacotes Gestacionais B+ (Essencial e Completo)". Slide 4 - "Sua agenda organizada e com confiança técnica".',
+        legenda: 'A gestação exige previsibilidade. Ao criar os "Pacotes Gestacionais B+" (Essencial e Completo), criamos uma jornada contínua. Você não precisa se preocupar onde vai realizar cada etapa: organizamos sua agenda para que cada ultrassom, da descoberta até as vias do parto, conte com a confiança técnica dos nossos especialistas.\n\nAcompanhamento seguro gera uma gravidez mais leve. Quer conhecer a cobertura de cada pacote e garantir sua paz durante os 9 meses? Envie um direct para o nosso time! 📲💙'
+      },
+      {
+        id: 4,
+        type: 'FEED',
+        headline: 'O maior fruto do nosso amor.',
+        art: 'Fotografia quente e cinematográfica: Companheiro(a) abraçando a gestante por trás, ambos visualizando uma imagem de ultrassom impressa. Tom emocional e acolhedor (golden hour). Selo "Feliz Dia dos Namorados".',
+        legenda: 'Neste Dia dos Namorados (12/06), nós celebramos o amor que cresce. 🤍💑\n\nVer a família se expandir altera a dinâmica, os planos e fortifica os laços. Participar desse momento através da medicina diagnóstica é o nosso maior privilégio. Cada batimento cardíaco escutado na sala de exame é a consolidação desse sentimento, o primeiro som de uma nova vida feita de duas metades.\n\nFeliz Dia dos Namorados a todos os casais que estão construindo o futuro. Celebrem o hoje e a vida que logo estará em seus braços! ✨'
+      },
+      {
+        id: 5,
+        type: 'CARROSSEL',
+        headline: '1º Trimestre: Rastreando a saúde do bebê.',
+        art: 'Carrossel Informativo: Slide 1 - "Por que a Morfológica do 1º Trimestre é indispensável?". Slide 2 - "Janela de ouro: 11 a 14 semanas". Slide 3 - "Cálculo de risco: protocolos baseados em evidência global". Slide 4 - "Tranquilidade e precisão: agende na B+".',
+        legenda: 'Estar nas primeiras semanas de gestação traz muitas dúvidas, mas uma certeza você deve ter: a realização da Morfológica do 1º Trimestre, entre 11 e 14 semanas, é inegociável. 🩺\n\nMais do que "ver o rostinho", nossos especialistas altamente qualificados realizam o rastreamento minucioso de marcadores cromossômicos (como a transluscência nucal) seguindo rigorosos métodos da medicina baseada em evidências. Trata-se de diagnóstico precoce focado no bem-estar fetal e materno.\n\nSua segurança tem endereço certo. Verifique suas semanas e agende pelo nosso WhatsApp. 📱'
+      },
+      {
+        id: 6,
+        type: 'CARROSSEL',
+        headline: 'O momento do laço e da confiança médica.',
+        art: 'Carrossel de bastidores: Slide 1 - Foco na expressão acolhedora da ultrassonografista explicando a imagem na tela para a paciente. Texto: "Mais que imagem, confiança." Slide 2 - Detalhe do toque humano e o gel morninho. Slide 3 - Uma conversa que acalma e explicações detalhadas a cada medição. Slide 4 - "Tecnologia de ponta aliada ao acolhimento humano."',
+        legenda: 'Tecnologia de ponta só atinge seu objetivo máximo quando conduzida por profissionais experientes. Na Clínica B+, o acolhimento anda lado a lado com o rigor técnico. Nós traduzimos os dados do bebê de forma clara e humana, para que você saia não só com laudos, mas com a paz de estar bem assistida. Conhece uma gestante que precisa desse acolhimento? Compartilhe este carrossel com ela! 🕊️💙'
+      },
+      {
+        id: 7,
+        type: 'FEED',
+        headline: 'O seu cuidado anual em um só dia: Combo da Mulher.',
+        art: 'Arte clean e elegante focada na rotina ágil da mulher moderna. Imagem de uma paciente sorrindo e relaxada na clínica, com os exames do combo sutilmente diagramados: Consulta + Citologia + Colposcopia + USG Endovaginal.',
+        legenda: 'Entre a rotina de trabalho, os cuidados com a casa e as festas juninas na nossa cidade, quando você tira um tempo só para o seu cuidado? 🤔🌸\n\nNa Clínica B+, entendemos perfeitamente que a mulher precisa de resolutividade e praticidade. Por isso, oferecemos o Combo da Mulher: a oportunidade de realizar todo o seu check-up anual de forma completa, ágil e em um único dia! O pacote inclui: Consulta Ginecológica, Citologia (Papanicolau), Colposcopia e Ultrassonografia Endovaginal.\n\nTudo isso com a segurança diagnóstica e médica que você já conhece na Capital do Forró. Menos tempo em salas de espera, mais tempo para viver o que importa. Clique no link da bio e agende o seu check-up! ✨🩺'
+      },
+      {
+        id: 8,
+        type: 'CARROSSEL',
+        headline: 'A excelência que a Capital do Forró confia.',
+        art: 'Carrossel de autoridade médica com design suave, elementos de cordel sutis na textura. Slide 1 - "A diferença da Clínica B+". Slide 2 - "A importância do corpo clínico especializado". Slide 3 - "Transparência de protocolos em Caruaru e região".',
+        legenda: 'Assim como Caruaru é reverenciada mundialmente pelas suas tradições, a Clínica B+ também tem um compromisso forte: ser a referência absoluta em medicina diagnóstica para as famílias da nossa terra.\n\nNenhuma etapa é suprimida ou acelerada. Cada órgão da anatomia fetal é validado por médicos vocacionados e apaixonados pelo que fazem, entregando laudos que dão a exata diretriz para o seu obstetra. Escolher a B+ é ter a certeza de que o arrasta-pé vai ser tranquilo, pois a segurança do seu bebê está sendo cuidada por especialistas de ponta na Capital do Forró! ✅💙'
+      },
+      {
+        id: 9,
+        type: 'CARROSSEL',
+        headline: 'Um arraial de conforto te espera em Divinópolis.',
+        art: 'Carrossel com fotos elegantes do espaço: Slide 1 - Fotografia da fachada no bairro Divinópolis. Texto: "Um espaço pensado para o seu bem-estar em Caruaru." Slide 2 - A recepção confortável e humanizada. Slide 3 - A preparação para o ultrassom obstétrico com poltronas para futuros papais. Slide 4 - "Privacidade total no seu momento."',
+        legenda: 'Desde o minuto em que você cruza nossas portas, todo o ambiente foi desenhado para te acalmar no centro da nossa amada cidade. Menos cara de hospital e muito mais cara de cuidado exclusivo. Nossa recepção humanizada já te acomoda enquanto a sala de exame te entrega privacidade total e poltronas confortáveis para os futuros papais e mamães. Venha viver a experiência B+. 🏥✨'
+      },
+      {
+        id: 10,
+        type: 'FEED',
+        headline: 'São João e Gravidez: Mitos e Verdades.',
+        art: 'Design leve e temático (com bandeirinhas super discretas em tons da clínica verdes e azuis, sem perder a elegância premium). Título: "Mitos da Alimentação Junina na Gravidez".',
+        legenda: 'Chegou o São João (24/06)! A fogueira já está acesa na Capital do Forró! Uma das épocas mais amadas, com as melhores comidas. Mas será que grávida pode entrar na festa alimentar sem medo? 🌽🔥\n\nMito: "Grávida não pode comer canjica ou pamonha". Pode sim, mas com moderação devido ao alto teor de açúcar, sobretudo para monitorar a glicemia do bebê.\nVerdade: "Atenção aos alimentos crus ou de procedência duvidosa nas barracas, para evitar risco de contaminação e listeria".\n\nO principal é se divertir e manter o bom senso! E lembre-se: a segurança do seu ultrassom não entra de recesso. Dúvidas? Fale com nosso atendimento! 🎉🤰'
+      },
+      {
+        id: 11,
+        type: 'CARROSSEL',
+        headline: 'Você conhece nossa linha pediátrica e da mulher?',
+        art: 'Carrossel Explicativo. Slide 1 - "Sua gestação é o começo do compromisso B+". Slide 2 - "Após o parto: Pediatria de Excelência". Slide 3 - "Check-ups e rotina: Papanicolau, Colposcopia e USG da mulher".',
+        legenda: 'A vida não pausa após a ultrassonografia de 3º trimestre, e o nosso cuidado com a sua família também não. 🌸🩺\n\nApesar do grande protagonismo dos exames obstétricos, a Clínica B+ possui uma excelente estrutura de continuidade: Exames preventivos da Mulher (laboratoriais e de imagem como colposcopia e ultrassom transvaginal) até a Pediatria para guiar o crescimento do recém-nascido saudável.\n\nNós queremos que você continue nos escolhendo como parceiros da sua saúde em todos os momentos vitais. 💙 Arraste para o lado e veja nossas linhas de cuidado contínuo.'
+      },
+      {
+        id: 12,
+        type: 'FEED',
+        headline: 'Fim dos festejos, mas o cuidado prossegue.',
+        art: 'Fotografia premium e acolhedora focando no sorriso de uma paciente se despedindo na recepção da Clínica. Texto em destaque sutil: "O mês nordestino está acabando, mas o seu cuidado não para."',
+        legenda: 'Nossas premissas são claras: Especialidade Obstétrica e Morfológicas completas (com cervicometria inclusa) formam a base fundamental da nossa dedicação a você.\n\nAs fogueiras podem até apagar, mas a segurança da sua gestação é um compromisso brilhante que continua com a gente o ano inteiro. Que orgulho de ser a clínica de referência na Capital do Forró, dando as famílias e obstetras exames precisos e as noites de sono mais tranquilas imagináveis. Que este final de junho traga ainda mais crescimento para o seu lar! 🌟 Agende seu retorno pelo link da bio.'
       }
     ]
   }
@@ -333,7 +437,9 @@ export default function App() {
         <div className="text-right flex items-center gap-4">
           <div>
             <h1 className="text-xl font-bold text-gray-800">Planejamento de Social Media</h1>
-            <p className="text-sm text-gray-500 uppercase tracking-wider font-semibold">{currentWeek?.title.includes('Maio') ? 'Maio' : 'Abril'} 2026</p>
+            <p className="text-sm text-gray-500 uppercase tracking-wider font-semibold">
+              {currentWeek?.isStories ? 'Avisos & Comunicados' : `${currentWeek?.title} 2026`}
+            </p>
           </div>
           <button 
             onClick={downloadPDF}
@@ -375,7 +481,7 @@ export default function App() {
             </div>
             <div className="flex items-center bg-white/20 px-4 py-2 rounded-full text-sm font-medium backdrop-blur-sm">
               <Calendar className="w-4 h-4 mr-2" />
-              {currentWeek?.title.includes('Maio') ? 'Maio / 2026' : 'Abril / 2026'}
+              {currentWeek?.isStories ? 'Stories & Feriados' : `${currentWeek?.title} / 2026`}
             </div>
           </div>
         </div>
