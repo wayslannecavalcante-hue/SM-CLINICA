@@ -243,8 +243,8 @@ const PLAN_DATA = [
         id: 1,
         type: 'FEED',
         headline: 'O coração bate no ritmo da Capital do Forró.',
-        art: 'Direcionamento de Arte: Fotografia de uma gestante no início da gravidez sorrindo, um ambiente de muita paz, sutilmente decorado com um laço xadrez ou cordel leve na moldura da arte. Título no layout: "Ultrassonografia Inicial: O começo de tudo."',
-        legenda: 'A cidade já está em ritmo de festa, mas a emoção mais forte bate dentro de você! 🪗🤍 A Ultrassonografia Obstétrica Inicial (entre a 7ª e a 9ª semana) é a porta de entrada para a sua jornada de pré-natal no mês mais nordestino do ano.\n\nEla confirma o tempo exato da gestação, quantas vidas estão a caminho e a correta implantação. Na Clínica B+, acolhemos o seu primeiro encontro visual com o bebê trazendo as respostas e a tranquilidade que a nova família merece neste São João. Agende seu exame de forma prática pelo link da nossa bio! 🌽🩺'
+        art: 'Direcionamento de Arte: Fotografia de uma gestante no início da gravidez sorrindo, um ambiente de muita paz, sutilmente decorado com um laço xadrez ou cordel leve na moldura da arte. Título no layout: "Ultrassonografia obstétrica inicial"',
+        legenda: 'A cidade já está em ritmo de festa, mas a emoção mais forte bate dentro de você! 🪗🤍 A Ultrassonografia Obstétrica Inicial é a porta de entrada para a sua jornada de pré-natal no mês mais nordestino do ano.\n\nEla confirma o tempo exato da gestação, quantas vidas estão a caminho e a correta implantação. Na Clínica B+, acolhemos o seu primeiro encontro visual com o bebê trazendo as respostas e a tranquilidade que a nova família merece neste São João. Agende seu exame de forma prática pelo link da nossa bio! 🌽🩺'
       },
       {
         id: 2,
