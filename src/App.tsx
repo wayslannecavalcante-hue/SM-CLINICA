@@ -250,15 +250,15 @@ const PLAN_DATA = [
         id: 2,
         type: 'CARROSSEL',
         headline: 'A nossa melhor tradição é uma morfológica completa.',
-        art: 'Layout Carrossel (4 frames) com textura suave de chita ou xadrez na borda (chic e discreto): Slide 1 - "A Morfológica do 2º Trimestre na B+". Slide 2 - Ícones da avaliação de cada órgão fetal. Slide 3 - "Cervicometria incluída de forma nativa". Slide 4 - "Sua segurança não se negocia".',
-        legenda: 'Em Caruaru a tradição junina é gigante, e na Clínica B+, a nossa maior tradição é fazer exames sem entrelinhas! Você sabia que a medida do colo do útero (cervicometria) é essencial para prevenir o parto prematuro?\n\nAqui, a Morfológica do 2º Trimestre (20 a 24 semanas) segue protocolos de excelência mundiais de forma NATIVA. Nossa equipe analisa detalhadamente toda a anatomia do bebê e já inclui a cervicometria no mesmo exame, sem surpresas na recepção (nada de balão surpresa!).\n\nNeste São João, o seu exame obstétrico é completo e a sua segurança é garantida. 🤰🔥 Salve este post para lembrar quando chegar nas 20 semanas!'
+        art: 'Layout Carrossel (4 frames) com textura suave de chita ou xadrez na borda (chic e discreto): Slide 1 - "A Morfológica do 2º Trimestre na B+". Slide 2 - Ícones da avaliação de cada órgão fetal. Slide 3 - "Cervicometria". Slide 4 - "Sua segurança não se negocia".',
+        legenda: 'Em Caruaru a tradição junina é gigante, e na Clínica B+, a nossa maior tradição é fazer exames sem entrelinhas! Você sabia que a medida do colo do útero (cervicometria) é essencial para prevenir o parto prematuro?\n\nMorfológica do 2º Trimestre (20 semanas a 23 semanas e 6 dias).\n\nNeste São João, o seu exame obstétrico é completo e a sua segurança é garantida. 🤰🔥 Salve este post para lembrar quando chegar nas 20 semanas!'
       },
       {
         id: 3,
         type: 'CARROSSEL',
-        headline: 'Planejamento que traz paz: Pacotes Gestacionais.',
-        art: 'Carrossel Explicativo. Slide 1 - Fotografia acolhedora de uma médica da B+ com o texto: "O que ninguém te conta sobre os exames do pré-natal". Slide 2 - "A necessidade de previsibilidade". Slide 3 - "Conheça os Pacotes Gestacionais B+ (Essencial e Completo)". Slide 4 - "Sua agenda organizada e com confiança técnica".',
-        legenda: 'A gestação exige previsibilidade. Ao criar os "Pacotes Gestacionais B+" (Essencial e Completo), criamos uma jornada contínua. Você não precisa se preocupar onde vai realizar cada etapa: organizamos sua agenda para que cada ultrassom, da descoberta até as vias do parto, conte com a confiança técnica dos nossos especialistas.\n\nAcompanhamento seguro gera uma gravidez mais leve. Quer conhecer a cobertura de cada pacote e garantir sua paz durante os 9 meses? Envie um direct para o nosso time! 📲💙'
+        headline: 'Um dia, todos os seus exames: Combo da Mulher.',
+        art: 'Carrossel Informativo. Slide 1 - Foto de uma mulher de bem com a vida e o texto: "Tempo é saúde". Slide 2 - "Por que realizar o Combo da Mulher?". Slide 3 - "Consulta + Citologia + Colposcopia + USG Endovaginal no mesmo dia". Slide 4 - "Agende e priorize sua saúde".',
+        legenda: 'A rotina corrida muitas vezes faz com que a gente adie nossos exames. Pensando na sua comodidade, a Clínica B+ preparou o Combo da Mulher, uma facilidade para você realizar o seu check-up completo em um único dia.\n\nCom o nosso Combo, você garante a Consulta Ginecológica, Citologia (Papanicolau), Colposcopia e Ultrassonografia Endovaginal com a agilidade que a vida moderna pede, sem abrir mão da nossa qualidade e segurança diagnóstica na Capital do Forró.\n\nPorque cuidar de si mesma não pode esperar. ✨ Arrasta pro lado para conhecer mais e agende o seu Combo através do nosso WhatsApp!'
       },
       {
         id: 4,
@@ -271,8 +271,8 @@ const PLAN_DATA = [
         id: 5,
         type: 'CARROSSEL',
         headline: '1º Trimestre: Rastreando a saúde do bebê.',
-        art: 'Carrossel Informativo: Slide 1 - "Por que a Morfológica do 1º Trimestre é indispensável?". Slide 2 - "Janela de ouro: 11 a 14 semanas". Slide 3 - "Cálculo de risco: protocolos baseados em evidência global". Slide 4 - "Tranquilidade e precisão: agende na B+".',
-        legenda: 'Estar nas primeiras semanas de gestação traz muitas dúvidas, mas uma certeza você deve ter: a realização da Morfológica do 1º Trimestre, entre 11 e 14 semanas, é inegociável. 🩺\n\nMais do que "ver o rostinho", nossos especialistas altamente qualificados realizam o rastreamento minucioso de marcadores cromossômicos (como a transluscência nucal) seguindo rigorosos métodos da medicina baseada em evidências. Trata-se de diagnóstico precoce focado no bem-estar fetal e materno.\n\nSua segurança tem endereço certo. Verifique suas semanas e agende pelo nosso WhatsApp. 📱'
+        art: 'Carrossel Informativo: Slide 1 - "Por que a Morfológica do 1º Trimestre é indispensável?". Slide 2 - "Janela de ouro: 11 a 13 semanas e 6 dias". Slide 3 - "Cálculo de risco: protocolos baseados em evidência global". Slide 4 - "Tranquilidade e precisão: agende na B+".',
+        legenda: 'Estar nas primeiras semanas de gestação traz muitas dúvidas, mas uma certeza você deve ter: a realização da Morfológica do 1º Trimestre, entre 11 e 13 semanas e 6 dias, é inegociável. 🩺\n\nMais do que "ver o rostinho", nossos especialistas altamente qualificados realizam o rastreamento minucioso de marcadores cromossômicos (como a transluscência nucal) seguindo rigorosos métodos da medicina baseada em evidências. Trata-se de diagnóstico precoce focado no bem-estar fetal e materno.\n\nSua segurança tem endereço certo. Verifique suas semanas e agende pelo nosso WhatsApp. 📱'
       },
       {
         id: 6,
@@ -312,16 +312,16 @@ const PLAN_DATA = [
       {
         id: 11,
         type: 'CARROSSEL',
-        headline: 'Você conhece nossa linha pediátrica e da mulher?',
-        art: 'Carrossel Explicativo. Slide 1 - "Sua gestação é o começo do compromisso B+". Slide 2 - "Após o parto: Pediatria de Excelência". Slide 3 - "Check-ups e rotina: Papanicolau, Colposcopia e USG da mulher".',
-        legenda: 'A vida não pausa após a ultrassonografia de 3º trimestre, e o nosso cuidado com a sua família também não. 🌸🩺\n\nApesar do grande protagonismo dos exames obstétricos, a Clínica B+ possui uma excelente estrutura de continuidade: Exames preventivos da Mulher (laboratoriais e de imagem como colposcopia e ultrassom transvaginal) até a Pediatria para guiar o crescimento do recém-nascido saudável.\n\nNós queremos que você continue nos escolhendo como parceiros da sua saúde em todos os momentos vitais. 💙 Arraste para o lado e veja nossas linhas de cuidado contínuo.'
+        headline: 'A excelência B+ cabe no seu bolso: Conheça o B+ PASS',
+        art: 'Layout informativo. Slide 1 - Destaque em tamanho grande para as artes reais do Cartão B+PASS (frente e verso). Slide 2 - "Descontos exclusivos em consultas". Slide 3 - "Condições reduzidas em Exames e Laboratório". Slide 4 - "Proteção para você e seus dependentes".',
+        legenda: 'O B+ PASS não é plano de saúde, é o seu passaporte para descontos exclusivos e atendimento de excelência na Clínica B+! 💳✨\n\nNós desenvolvemos o B+ PASS para quem deseja uma medicina humanizada, qualificada e ágil, com preços acessíveis. Com a sua adesão, você passa a ter acesso a:\n\n✅ Descontos super especiais em consultas médicas com nossos especialistas.\n✅ Condições reduzidas na nossa linha completa de exames de Imagem e Laboratoriais.\n✅ Possibilidade de inclusão de dependentes (traga quem você ama para cuidar da saúde também).\n\nDescubra que o padrão de qualidade B+ cabe no seu bolso. Mande uma mensagem agora no nosso WhatsApp e garanta os benefícios do seu cartão B+ PASS! 💙'
       },
       {
         id: 12,
         type: 'FEED',
-        headline: 'Fim dos festejos, mas o cuidado prossegue.',
-        art: 'Fotografia premium e acolhedora focando no sorriso de uma paciente se despedindo na recepção da Clínica. Texto em destaque sutil: "O mês nordestino está acabando, mas o seu cuidado não para."',
-        legenda: 'Nossas premissas são claras: Especialidade Obstétrica e Morfológicas completas (com cervicometria inclusa) formam a base fundamental da nossa dedicação a você.\n\nAs fogueiras podem até apagar, mas a segurança da sua gestação é um compromisso brilhante que continua com a gente o ano inteiro. Que orgulho de ser a clínica de referência na Capital do Forró, dando as famílias e obstetras exames precisos e as noites de sono mais tranquilas imagináveis. Que este final de junho traga ainda mais crescimento para o seu lar! 🌟 Agende seu retorno pelo link da bio.'
+        headline: 'Saúde Mental em primeiro lugar.',
+        art: 'Fotografia premium e acolhedora focando em uma pessoa serena, transmitindo calma e paz de espírito. Texto em destaque sutil: "Cuidar da mente é o primeiro passo para o bem-estar."',
+        legenda: 'O cuidado com a saúde vai muito além do físico. Ignorar a exaustão, a ansiedade ou as oscilações de humor pode impactar significativamente a sua qualidade de vida.\n\nNa Clínica B+, entendemos que a saúde mental é o pilar de uma vida equilibrada. Por isso, oferecemos um atendimento acolhedor em Psiquiatria e Psicologia, focado em ouvir você sem julgamentos, mapear os desconfortos emocionais e trazer um tratamento que devolva as rédeas da sua rotina.\n\nVocê não precisa dar conta de tudo sozinha. Se precisar de ajuda, conte com nossos especialistas para restabelecer o seu bem-estar emocional. Agende sua consulta pelo link da bio! 🧠✨'
       }
     ]
   }
